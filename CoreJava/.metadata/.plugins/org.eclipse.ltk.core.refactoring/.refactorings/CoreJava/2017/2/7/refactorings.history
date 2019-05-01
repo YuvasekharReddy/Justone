@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;yuva.Practice.CoreJava.Student&apos; to &apos;Studen11t&apos;&#x0D;&#x0A;- Original project: &apos;CoreJava&apos;&#x0D;&#x0A;- Original element: &apos;yuva.Practice.CoreJava.Student&apos;&#x0D;&#x0A;- Renamed element: &apos;yuva.Practice.CoreJava.Studen11t&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Student&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;yuva.Practice.CoreJava{Lab358.java[Student" matchStrategy="1" name="Studen11t" qualified="false" references="true" similarDeclarations="false" stamp="1486909946649" textual="false" version="1.0"/>
+</session>

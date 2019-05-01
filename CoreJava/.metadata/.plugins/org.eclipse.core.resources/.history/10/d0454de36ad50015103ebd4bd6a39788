@@ -1,0 +1,18 @@
+package yuva.Practice.CoreJava;
+
+public class P11 {
+	public static void main(String[] args) {
+		AA1 aobj=new BB1();
+		aobj.x=30;
+		System.out.println(aobj.x);
+		
+	}
+	}
+
+	class AA1{
+		int x=10;
+	}
+
+	class BB1 extends AA1{
+		int x=20;
+}

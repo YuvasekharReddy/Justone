@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;CHibernateUtil.java&apos; to &apos;Lab24/src/com.jlcindia.hibernate&apos;&#x0D;&#x0A;- Original project: &apos;Lab1&apos;&#x0D;&#x0A;- Destination element: &apos;Lab24/src/com.jlcindia.hibernate&apos;&#x0D;&#x0A;- Original element: &apos;com.jlcindia.hibernate.CHibernateUtil.java&apos;" description="Copy compilation unit" destination="=Lab24/src&lt;com.jlcindia.hibernate" element1="/src&lt;com.jlcindia.hibernate{CHibernateUtil.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1493599890529" units="1" version="1.0"/>
+</session>

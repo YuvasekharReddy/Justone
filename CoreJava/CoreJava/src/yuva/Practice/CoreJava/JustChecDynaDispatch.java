@@ -1,0 +1,28 @@
+package yuva.Practice.CoreJava;
+
+public class JustChecDynaDispatch {
+public static void main(String[] args) {
+	SupCls spc=new SubCls();
+	//int y=spc.c;
+	//System.out.println(spc.c);
+	//spc.b1();
+	System.out.println(spc.a);
+	spc.a1();
+	SubCls spc1=(SubCls)spc;
+	spc1.b1();
+}
+}
+class SupCls{
+	int a=10;
+	int b=20;
+	public void a1() {
+		System.out.println("a1()");
+	}
+}
+class SubCls extends SupCls {
+	int c=30;
+	int d=40;
+	public void b1() {
+		System.out.println("b1()");
+	}
+}

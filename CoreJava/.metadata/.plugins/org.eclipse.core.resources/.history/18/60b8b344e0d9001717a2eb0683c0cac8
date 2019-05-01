@@ -1,0 +1,13 @@
+package yuva.Practice.CoreJava;
+
+public class Myfin {
+
+}
+
+class HHJJ{
+	static final int a;
+	static {
+		a=10;
+	}
+	
+}

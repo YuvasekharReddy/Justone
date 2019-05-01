@@ -1,0 +1,21 @@
+package yuva.Practice.CoreJava;
+import java.util.*;
+
+public class P15 {
+	public static void main(String[] args) {
+		Student stu=new Student();
+	Map map=new LinkedHashMap();
+		map.put(stu,20);
+		map.put(stu,10);
+		
+	}
+}
+
+class Student{
+	int a;
+	String b;
+	void m1(){
+	System.out.println(a);
+    System.out.println(b);
+	}
+}

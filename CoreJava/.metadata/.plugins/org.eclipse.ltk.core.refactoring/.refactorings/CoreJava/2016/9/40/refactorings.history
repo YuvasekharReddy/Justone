@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;yuva.Practice.CoreJava.IBM&apos; to &apos;SortingArray&apos;&#x0D;&#x0A;- Original project: &apos;CoreJava&apos;&#x0D;&#x0A;- Original element: &apos;yuva.Practice.CoreJava.IBM&apos;&#x0D;&#x0A;- Renamed element: &apos;yuva.Practice.CoreJava.SortingArray&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;IBM&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;yuva.Practice.CoreJava{IBM.java[IBM" matchStrategy="1" name="SortingArray" qualified="false" references="true" similarDeclarations="false" stamp="1474970588231" textual="false" version="1.0"/>
+</session>

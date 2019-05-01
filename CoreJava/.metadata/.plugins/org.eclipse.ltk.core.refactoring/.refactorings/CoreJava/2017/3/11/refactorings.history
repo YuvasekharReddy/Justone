@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.yuva.logic.practice.SwitchTest&apos; to &apos;SwitchTestLab180&apos;&#x0D;&#x0A;- Original project: &apos;CoreJava&apos;&#x0D;&#x0A;- Original element: &apos;com.yuva.logic.practice.SwitchTest&apos;&#x0D;&#x0A;- Renamed element: &apos;com.yuva.logic.practice.SwitchTestLab180&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SwitchTest&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.yuva.logic.practice{SwitchTest.java[SwitchTest" matchStrategy="1" name="SwitchTestLab180" qualified="false" references="true" similarDeclarations="false" stamp="1489847571692" textual="false" version="1.0"/>
+</session>
